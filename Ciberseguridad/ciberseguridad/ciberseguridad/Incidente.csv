@@ -1,0 +1,361 @@
+id_incidente,tipo,impacto,severidad,descripcion,fecha_reporte,estado,id_dispositivo,id_vulnerabilidad
+1,"Fuga de datos",Bajo,Baja,"Incidente detectado: Fuga de datos. Referencia interna 1.",2024-07-24,"En revisi├│n",141,311
+2,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 2.",2025-06-02,Cerrado,9,97
+3,"Fallo de servicio",Cr├¡tico,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 3.",2024-07-15,Cerrado,38,284
+4,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 4.",2024-10-27,Cerrado,117,206
+5,"Fallo de servicio",Bajo,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 5.",2024-11-04,Cerrado,214,115
+6,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 6.",2024-10-25,"En revisi├│n",26,198
+7,"Explotaci├│n de vulnerabilidad",Alto,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 7.",2025-10-23,"En revisi├│n",180,35
+8,"Phishing exitoso",Cr├¡tico,Media,"Incidente detectado: Phishing exitoso. Referencia interna 8.",2025-11-03,Cerrado,37,207
+9,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 9.",2025-03-06,"En revisi├│n",2,122
+10,"Phishing exitoso",Cr├¡tico,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 10.",2025-01-17,Cerrado,69,136
+11,"Explotaci├│n de vulnerabilidad",Alto,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 11.",2024-11-28,Cerrado,75,191
+12,"Malware detectado",Bajo,Alta,"Incidente detectado: Malware detectado. Referencia interna 12.",2025-10-15,Cerrado,220,104
+13,"Fallo de servicio",Cr├¡tico,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 13.",2025-03-15,Abierto,101,177
+14,"Malware detectado",Medio,Alta,"Incidente detectado: Malware detectado. Referencia interna 14.",2025-06-23,Cerrado,100,56
+15,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 15.",2025-07-28,Cerrado,175,103
+16,"Acceso no autorizado",Alto,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 16.",2025-08-27,"En revisi├│n",114,250
+17,"Phishing exitoso",Bajo,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 17.",2025-05-08,Cerrado,21,101
+18,"Acceso no autorizado",Medio,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 18.",2024-12-26,Abierto,32,264
+19,"Malware detectado",Alto,Media,"Incidente detectado: Malware detectado. Referencia interna 19.",2024-11-10,Abierto,159,123
+20,"Fuga de datos",Alto,Baja,"Incidente detectado: Fuga de datos. Referencia interna 20.",2025-01-07,Cerrado,192,294
+21,"Fuga de datos",Bajo,Media,"Incidente detectado: Fuga de datos. Referencia interna 21.",2025-05-01,"En revisi├│n",116,93
+22,"Acceso no autorizado",Alto,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 22.",2024-08-09,Cerrado,136,67
+23,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 23.",2025-09-08,"En revisi├│n",111,242
+24,"Acceso no autorizado",Cr├¡tico,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 24.",2024-08-12,Cerrado,83,212
+25,"Fuga de datos",Alto,Baja,"Incidente detectado: Fuga de datos. Referencia interna 25.",2024-11-16,"En revisi├│n",55,237
+26,"Malware detectado",Medio,Baja,"Incidente detectado: Malware detectado. Referencia interna 26.",2025-04-27,"En revisi├│n",86,274
+27,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 27.",2025-09-23,"En revisi├│n",195,128
+28,"Phishing exitoso",Cr├¡tico,Media,"Incidente detectado: Phishing exitoso. Referencia interna 28.",2025-08-08,"En revisi├│n",13,95
+29,"Fuga de datos",Medio,Media,"Incidente detectado: Fuga de datos. Referencia interna 29.",2025-08-06,Cerrado,75,308
+30,"Fallo de servicio",Cr├¡tico,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 30.",2025-10-10,"En revisi├│n",218,65
+31,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 31.",2024-11-03,"En revisi├│n",220,298
+32,"Escaneo de puertos",Alto,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 32.",2025-06-10,Cerrado,76,246
+33,"Phishing exitoso",Bajo,Media,"Incidente detectado: Phishing exitoso. Referencia interna 33.",2025-01-06,Cerrado,133,148
+34,"Acceso no autorizado",Cr├¡tico,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 34.",2025-07-21,Cerrado,88,43
+35,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 35.",2025-07-19,Cerrado,39,102
+36,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 36.",2025-04-27,"En revisi├│n",42,219
+37,"Explotaci├│n de vulnerabilidad",Bajo,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 37.",2024-11-25,Cerrado,66,69
+38,"Fuga de datos",Cr├¡tico,Media,"Incidente detectado: Fuga de datos. Referencia interna 38.",2025-05-25,Cerrado,34,255
+39,"Acceso no autorizado",Bajo,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 39.",2025-03-29,Cerrado,64,78
+40,"Fuga de datos",Alto,Media,"Incidente detectado: Fuga de datos. Referencia interna 40.",2025-10-21,Cerrado,212,282
+41,"Phishing exitoso",Alto,Media,"Incidente detectado: Phishing exitoso. Referencia interna 41.",2024-11-01,"En revisi├│n",174,40
+42,"Explotaci├│n de vulnerabilidad",Bajo,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 42.",2025-02-14,Abierto,54,116
+43,"Explotaci├│n de vulnerabilidad",Alto,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 43.",2025-02-24,Cerrado,193,112
+44,"Phishing exitoso",Bajo,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 44.",2025-09-28,"En revisi├│n",208,212
+45,"Acceso no autorizado",Cr├¡tico,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 45.",2025-07-31,Cerrado,209,63
+46,"Malware detectado",Bajo,Alta,"Incidente detectado: Malware detectado. Referencia interna 46.",2024-12-27,Abierto,33,248
+47,"Fuga de datos",Medio,Media,"Incidente detectado: Fuga de datos. Referencia interna 47.",2025-01-16,Cerrado,158,300
+48,"Phishing exitoso",Alto,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 48.",2025-10-24,Cerrado,52,301
+49,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 49.",2025-05-03,"En revisi├│n",52,192
+50,"Acceso no autorizado",Medio,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 50.",2025-01-21,Cerrado,15,254
+51,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 51.",2025-07-05,Cerrado,204,117
+52,"Explotaci├│n de vulnerabilidad",Alto,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 52.",2024-10-13,Abierto,191,191
+53,"Malware detectado",Alto,Baja,"Incidente detectado: Malware detectado. Referencia interna 53.",2024-07-24,Cerrado,106,318
+54,"Phishing exitoso",Bajo,Media,"Incidente detectado: Phishing exitoso. Referencia interna 54.",2024-08-22,Cerrado,148,290
+55,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 55.",2025-10-25,"En revisi├│n",37,219
+56,"Fallo de servicio",Cr├¡tico,Media,"Incidente detectado: Fallo de servicio. Referencia interna 56.",2025-06-21,"En revisi├│n",178,128
+57,"Explotaci├│n de vulnerabilidad",Bajo,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 57.",2025-01-18,"En revisi├│n",100,282
+58,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 58.",2025-07-12,"En revisi├│n",207,279
+59,"Explotaci├│n de vulnerabilidad",Alto,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 59.",2025-01-23,Cerrado,53,150
+60,"Fuga de datos",Cr├¡tico,Alta,"Incidente detectado: Fuga de datos. Referencia interna 60.",2025-08-02,Cerrado,124,310
+61,"Fuga de datos",Medio,Alta,"Incidente detectado: Fuga de datos. Referencia interna 61.",2025-04-23,"En revisi├│n",128,65
+62,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 62.",2025-10-25,Abierto,195,107
+63,"Explotaci├│n de vulnerabilidad",Medio,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 63.",2024-07-16,Abierto,206,76
+64,"Explotaci├│n de vulnerabilidad",Bajo,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 64.",2025-04-24,"En revisi├│n",108,8
+65,"Explotaci├│n de vulnerabilidad",Alto,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 65.",2024-12-18,"En revisi├│n",216,40
+66,"Acceso no autorizado",Alto,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 66.",2025-09-02,Cerrado,207,299
+67,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 67.",2025-03-16,Cerrado,115,283
+68,"Malware detectado",Cr├¡tico,Baja,"Incidente detectado: Malware detectado. Referencia interna 68.",2025-08-11,Abierto,120,292
+69,"Malware detectado",Cr├¡tico,Baja,"Incidente detectado: Malware detectado. Referencia interna 69.",2024-06-30,Cerrado,96,167
+70,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 70.",2025-08-13,Cerrado,76,171
+71,"Acceso no autorizado",Cr├¡tico,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 71.",2025-01-17,Cerrado,53,89
+72,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 72.",2025-08-06,Cerrado,187,140
+73,"Fallo de servicio",Alto,Media,"Incidente detectado: Fallo de servicio. Referencia interna 73.",2025-06-19,Abierto,66,189
+74,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 74.",2025-07-12,Cerrado,191,292
+75,"Explotaci├│n de vulnerabilidad",Bajo,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 75.",2025-07-09,Cerrado,47,129
+76,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 76.",2024-09-24,Abierto,126,168
+77,"Explotaci├│n de vulnerabilidad",Bajo,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 77.",2024-07-03,Cerrado,145,123
+78,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 78.",2025-02-06,"En revisi├│n",170,38
+79,"Acceso no autorizado",Medio,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 79.",2024-07-07,"En revisi├│n",105,21
+80,"Explotaci├│n de vulnerabilidad",Medio,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 80.",2025-02-26,Cerrado,126,16
+81,"Acceso no autorizado",Cr├¡tico,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 81.",2025-11-04,Cerrado,10,84
+82,"Acceso no autorizado",Medio,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 82.",2025-07-17,Cerrado,152,310
+83,"Escaneo de puertos",Medio,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 83.",2025-02-02,Abierto,44,23
+84,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 84.",2024-11-20,Cerrado,16,48
+85,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 85.",2025-01-29,Cerrado,181,200
+86,"Escaneo de puertos",Alto,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 86.",2025-01-24,Cerrado,37,4
+87,"Acceso no autorizado",Alto,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 87.",2025-06-20,Cerrado,58,254
+88,"Phishing exitoso",Cr├¡tico,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 88.",2025-06-14,Cerrado,96,178
+89,"Malware detectado",Medio,Media,"Incidente detectado: Malware detectado. Referencia interna 89.",2025-02-24,Cerrado,1,64
+90,"Acceso no autorizado",Bajo,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 90.",2024-10-18,Cerrado,133,113
+91,"Fuga de datos",Medio,Alta,"Incidente detectado: Fuga de datos. Referencia interna 91.",2025-01-19,"En revisi├│n",218,155
+92,"Fuga de datos",Bajo,Media,"Incidente detectado: Fuga de datos. Referencia interna 92.",2025-09-18,"En revisi├│n",50,253
+93,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 93.",2025-04-08,"En revisi├│n",152,80
+94,"Fallo de servicio",Bajo,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 94.",2025-04-18,Abierto,143,253
+95,"Fallo de servicio",Cr├¡tico,Media,"Incidente detectado: Fallo de servicio. Referencia interna 95.",2024-12-15,Cerrado,197,313
+96,"Explotaci├│n de vulnerabilidad",Alto,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 96.",2024-08-29,Cerrado,5,29
+97,"Explotaci├│n de vulnerabilidad",Alto,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 97.",2025-01-01,Cerrado,40,101
+98,"Malware detectado",Bajo,Baja,"Incidente detectado: Malware detectado. Referencia interna 98.",2024-07-11,"En revisi├│n",188,158
+99,"Fallo de servicio",Medio,Media,"Incidente detectado: Fallo de servicio. Referencia interna 99.",2025-11-01,Cerrado,188,2
+100,"Malware detectado",Cr├¡tico,Alta,"Incidente detectado: Malware detectado. Referencia interna 100.",2025-10-17,Cerrado,74,65
+101,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 101.",2024-08-08,Cerrado,24,15
+102,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 102.",2025-07-23,"En revisi├│n",140,34
+103,"Acceso no autorizado",Alto,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 103.",2024-06-29,Abierto,171,122
+104,"Malware detectado",Cr├¡tico,Alta,"Incidente detectado: Malware detectado. Referencia interna 104.",2025-10-22,Abierto,129,268
+105,"Phishing exitoso",Alto,Media,"Incidente detectado: Phishing exitoso. Referencia interna 105.",2024-11-24,Cerrado,143,107
+106,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 106.",2025-05-15,"En revisi├│n",17,193
+107,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 107.",2025-02-03,Cerrado,88,177
+108,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 108.",2025-04-08,"En revisi├│n",74,259
+109,"Fuga de datos",Medio,Alta,"Incidente detectado: Fuga de datos. Referencia interna 109.",2025-02-12,Cerrado,58,314
+110,"Escaneo de puertos",Medio,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 110.",2025-03-01,Abierto,72,119
+111,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 111.",2024-09-25,Cerrado,208,58
+112,"Phishing exitoso",Bajo,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 112.",2025-05-17,Cerrado,29,275
+113,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 113.",2025-08-22,"En revisi├│n",182,151
+114,"Explotaci├│n de vulnerabilidad",Medio,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 114.",2024-07-18,"En revisi├│n",157,253
+115,"Phishing exitoso",Alto,Media,"Incidente detectado: Phishing exitoso. Referencia interna 115.",2025-05-18,"En revisi├│n",131,229
+116,"Fuga de datos",Alto,Baja,"Incidente detectado: Fuga de datos. Referencia interna 116.",2025-08-17,Cerrado,64,211
+117,"Phishing exitoso",Cr├¡tico,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 117.",2024-07-30,Cerrado,69,158
+118,"Fallo de servicio",Medio,Media,"Incidente detectado: Fallo de servicio. Referencia interna 118.",2024-08-07,"En revisi├│n",106,189
+119,"Fuga de datos",Alto,Baja,"Incidente detectado: Fuga de datos. Referencia interna 119.",2025-05-03,Abierto,186,261
+120,"Phishing exitoso",Cr├¡tico,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 120.",2024-11-11,Cerrado,141,264
+121,"Acceso no autorizado",Medio,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 121.",2024-08-28,"En revisi├│n",57,9
+122,"Malware detectado",Alto,Alta,"Incidente detectado: Malware detectado. Referencia interna 122.",2025-02-16,"En revisi├│n",66,211
+123,"Fuga de datos",Cr├¡tico,Media,"Incidente detectado: Fuga de datos. Referencia interna 123.",2025-05-29,Cerrado,186,259
+124,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 124.",2024-09-08,"En revisi├│n",10,5
+125,"Fallo de servicio",Cr├¡tico,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 125.",2025-07-23,"En revisi├│n",213,89
+126,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 126.",2024-07-24,Cerrado,47,161
+127,"Phishing exitoso",Alto,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 127.",2025-01-09,Cerrado,40,113
+128,"Escaneo de puertos",Cr├¡tico,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 128.",2025-09-13,Cerrado,35,317
+129,"Explotaci├│n de vulnerabilidad",Alto,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 129.",2024-07-29,Cerrado,9,252
+130,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 130.",2024-09-30,"En revisi├│n",158,62
+131,"Fuga de datos",Alto,Baja,"Incidente detectado: Fuga de datos. Referencia interna 131.",2025-06-01,Cerrado,92,112
+132,"Fuga de datos",Cr├¡tico,Media,"Incidente detectado: Fuga de datos. Referencia interna 132.",2025-02-04,Cerrado,14,280
+133,"Fallo de servicio",Cr├¡tico,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 133.",2024-11-19,Cerrado,91,135
+134,"Acceso no autorizado",Medio,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 134.",2025-02-01,Cerrado,19,320
+135,"Malware detectado",Bajo,Alta,"Incidente detectado: Malware detectado. Referencia interna 135.",2024-09-04,"En revisi├│n",88,120
+136,"Phishing exitoso",Medio,Media,"Incidente detectado: Phishing exitoso. Referencia interna 136.",2024-11-24,Cerrado,196,4
+137,"Malware detectado",Cr├¡tico,Alta,"Incidente detectado: Malware detectado. Referencia interna 137.",2025-10-12,Cerrado,76,247
+138,"Escaneo de puertos",Alto,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 138.",2025-09-17,Cerrado,168,195
+139,"Fuga de datos",Medio,Baja,"Incidente detectado: Fuga de datos. Referencia interna 139.",2025-02-15,"En revisi├│n",106,269
+140,"Explotaci├│n de vulnerabilidad",Alto,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 140.",2025-11-09,"En revisi├│n",106,260
+141,"Malware detectado",Alto,Alta,"Incidente detectado: Malware detectado. Referencia interna 141.",2025-10-02,Cerrado,84,201
+142,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 142.",2025-09-03,Cerrado,217,165
+143,"Fuga de datos",Cr├¡tico,Baja,"Incidente detectado: Fuga de datos. Referencia interna 143.",2024-07-21,Abierto,26,163
+144,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 144.",2024-09-13,Cerrado,203,279
+145,"Phishing exitoso",Cr├¡tico,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 145.",2025-05-24,Cerrado,174,51
+146,"Fallo de servicio",Alto,Media,"Incidente detectado: Fallo de servicio. Referencia interna 146.",2024-08-04,Cerrado,89,186
+147,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 147.",2025-09-15,Cerrado,86,50
+148,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 148.",2024-10-31,Abierto,129,178
+149,"Escaneo de puertos",Bajo,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 149.",2025-02-22,Cerrado,11,152
+150,"Malware detectado",Medio,Baja,"Incidente detectado: Malware detectado. Referencia interna 150.",2025-01-10,Cerrado,114,16
+151,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 151.",2024-12-03,Cerrado,218,27
+152,"Fuga de datos",Medio,Media,"Incidente detectado: Fuga de datos. Referencia interna 152.",2024-12-24,Cerrado,122,23
+153,"Malware detectado",Cr├¡tico,Baja,"Incidente detectado: Malware detectado. Referencia interna 153.",2025-01-05,Abierto,197,269
+154,"Explotaci├│n de vulnerabilidad",Alto,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 154.",2025-10-06,Cerrado,120,123
+155,"Malware detectado",Cr├¡tico,Alta,"Incidente detectado: Malware detectado. Referencia interna 155.",2025-04-22,Cerrado,60,59
+156,"Fallo de servicio",Bajo,Media,"Incidente detectado: Fallo de servicio. Referencia interna 156.",2024-07-20,Cerrado,155,84
+157,"Phishing exitoso",Bajo,Media,"Incidente detectado: Phishing exitoso. Referencia interna 157.",2025-02-19,Cerrado,190,318
+158,"Escaneo de puertos",Bajo,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 158.",2025-05-28,Abierto,31,121
+159,"Fuga de datos",Cr├¡tico,Media,"Incidente detectado: Fuga de datos. Referencia interna 159.",2024-11-15,Cerrado,67,93
+160,"Acceso no autorizado",Alto,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 160.",2025-06-23,"En revisi├│n",155,50
+161,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 161.",2025-01-15,Cerrado,6,187
+162,"Fallo de servicio",Medio,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 162.",2024-08-30,Cerrado,10,280
+163,"Acceso no autorizado",Alto,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 163.",2025-09-02,Abierto,46,112
+164,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 164.",2024-12-23,"En revisi├│n",123,206
+165,"Malware detectado",Medio,Alta,"Incidente detectado: Malware detectado. Referencia interna 165.",2024-09-17,Cerrado,65,34
+166,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 166.",2025-09-12,Abierto,76,15
+167,"Phishing exitoso",Alto,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 167.",2025-02-05,Cerrado,166,15
+168,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 168.",2025-01-24,Abierto,41,16
+169,"Fallo de servicio",Alto,Media,"Incidente detectado: Fallo de servicio. Referencia interna 169.",2024-09-20,Cerrado,84,101
+170,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 170.",2024-09-28,Cerrado,12,227
+171,"Phishing exitoso",Cr├¡tico,Media,"Incidente detectado: Phishing exitoso. Referencia interna 171.",2025-10-22,"En revisi├│n",94,43
+172,"Fuga de datos",Alto,Media,"Incidente detectado: Fuga de datos. Referencia interna 172.",2025-04-11,Cerrado,214,133
+173,"Escaneo de puertos",Alto,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 173.",2024-09-02,"En revisi├│n",54,210
+174,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 174.",2025-11-10,Cerrado,185,186
+175,"Phishing exitoso",Cr├¡tico,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 175.",2024-11-25,Cerrado,69,97
+176,"Acceso no autorizado",Cr├¡tico,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 176.",2024-11-23,"En revisi├│n",92,143
+177,"Phishing exitoso",Alto,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 177.",2024-10-24,Cerrado,35,149
+178,"Fallo de servicio",Cr├¡tico,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 178.",2025-09-26,Cerrado,128,156
+179,"Fallo de servicio",Alto,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 179.",2024-10-22,"En revisi├│n",161,306
+180,"Fallo de servicio",Bajo,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 180.",2025-06-12,Cerrado,190,94
+181,"Fuga de datos",Bajo,Media,"Incidente detectado: Fuga de datos. Referencia interna 181.",2024-09-30,Cerrado,147,16
+182,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 182.",2025-10-09,Cerrado,25,137
+183,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 183.",2025-07-15,"En revisi├│n",96,47
+184,"Escaneo de puertos",Cr├¡tico,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 184.",2025-02-02,Cerrado,53,273
+185,"Phishing exitoso",Alto,Media,"Incidente detectado: Phishing exitoso. Referencia interna 185.",2025-05-07,"En revisi├│n",75,186
+186,"Malware detectado",Alto,Media,"Incidente detectado: Malware detectado. Referencia interna 186.",2024-11-13,Abierto,217,123
+187,"Fuga de datos",Medio,Alta,"Incidente detectado: Fuga de datos. Referencia interna 187.",2025-08-25,"En revisi├│n",202,216
+188,"Acceso no autorizado",Bajo,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 188.",2024-12-14,"En revisi├│n",91,64
+189,"Phishing exitoso",Cr├¡tico,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 189.",2024-09-20,"En revisi├│n",151,14
+190,"Phishing exitoso",Cr├¡tico,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 190.",2025-10-16,Cerrado,141,171
+191,"Fuga de datos",Cr├¡tico,Baja,"Incidente detectado: Fuga de datos. Referencia interna 191.",2025-04-24,Abierto,163,132
+192,"Acceso no autorizado",Cr├¡tico,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 192.",2025-06-13,Cerrado,60,127
+193,"Malware detectado",Alto,Media,"Incidente detectado: Malware detectado. Referencia interna 193.",2025-08-18,Cerrado,189,44
+194,"Phishing exitoso",Bajo,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 194.",2025-04-30,Abierto,219,205
+195,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 195.",2024-08-18,Cerrado,195,189
+196,"Fallo de servicio",Cr├¡tico,Media,"Incidente detectado: Fallo de servicio. Referencia interna 196.",2025-06-15,"En revisi├│n",147,247
+197,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 197.",2025-11-01,"En revisi├│n",195,2
+198,"Explotaci├│n de vulnerabilidad",Medio,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 198.",2025-06-08,Cerrado,152,291
+199,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 199.",2025-08-30,Abierto,98,165
+200,"Malware detectado",Alto,Media,"Incidente detectado: Malware detectado. Referencia interna 200.",2025-04-04,"En revisi├│n",106,262
+201,"Malware detectado",Medio,Alta,"Incidente detectado: Malware detectado. Referencia interna 201.",2025-08-08,"En revisi├│n",196,103
+202,"Phishing exitoso",Alto,Media,"Incidente detectado: Phishing exitoso. Referencia interna 202.",2025-01-14,Abierto,112,29
+203,"Fuga de datos",Cr├¡tico,Alta,"Incidente detectado: Fuga de datos. Referencia interna 203.",2025-11-09,Cerrado,12,151
+204,"Fuga de datos",Bajo,Baja,"Incidente detectado: Fuga de datos. Referencia interna 204.",2025-01-15,Cerrado,30,95
+205,"Fuga de datos",Cr├¡tico,Media,"Incidente detectado: Fuga de datos. Referencia interna 205.",2025-10-17,"En revisi├│n",116,166
+206,"Malware detectado",Medio,Baja,"Incidente detectado: Malware detectado. Referencia interna 206.",2025-10-16,Cerrado,74,120
+207,"Fuga de datos",Medio,Baja,"Incidente detectado: Fuga de datos. Referencia interna 207.",2025-10-07,Cerrado,106,50
+208,"Acceso no autorizado",Cr├¡tico,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 208.",2025-02-12,Abierto,49,179
+209,"Malware detectado",Medio,Baja,"Incidente detectado: Malware detectado. Referencia interna 209.",2024-11-06,Abierto,216,211
+210,"Phishing exitoso",Alto,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 210.",2025-08-23,Cerrado,113,137
+211,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 211.",2024-11-17,Abierto,83,198
+212,"Fallo de servicio",Cr├¡tico,Media,"Incidente detectado: Fallo de servicio. Referencia interna 212.",2025-07-26,"En revisi├│n",41,265
+213,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 213.",2025-07-06,Cerrado,207,38
+214,"Malware detectado",Bajo,Baja,"Incidente detectado: Malware detectado. Referencia interna 214.",2024-12-12,"En revisi├│n",70,42
+215,"Phishing exitoso",Medio,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 215.",2024-10-29,Cerrado,92,108
+216,"Escaneo de puertos",Alto,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 216.",2024-12-06,Cerrado,194,91
+217,"Escaneo de puertos",Medio,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 217.",2025-10-29,"En revisi├│n",88,8
+218,"Acceso no autorizado",Alto,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 218.",2025-10-02,Abierto,163,215
+219,"Escaneo de puertos",Medio,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 219.",2025-10-05,"En revisi├│n",144,303
+220,"Malware detectado",Bajo,Baja,"Incidente detectado: Malware detectado. Referencia interna 220.",2024-10-13,"En revisi├│n",52,263
+221,"Malware detectado",Medio,Alta,"Incidente detectado: Malware detectado. Referencia interna 221.",2025-05-29,"En revisi├│n",134,151
+222,"Malware detectado",Alto,Alta,"Incidente detectado: Malware detectado. Referencia interna 222.",2025-09-27,Cerrado,183,67
+223,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 223.",2025-01-10,Cerrado,109,303
+224,"Acceso no autorizado",Alto,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 224.",2025-11-06,Cerrado,45,289
+225,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 225.",2024-10-18,Abierto,83,26
+226,"Fuga de datos",Bajo,Baja,"Incidente detectado: Fuga de datos. Referencia interna 226.",2025-07-22,"En revisi├│n",143,133
+227,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 227.",2025-06-18,"En revisi├│n",217,54
+228,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 228.",2025-09-14,"En revisi├│n",90,317
+229,"Escaneo de puertos",Medio,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 229.",2025-09-12,"En revisi├│n",210,51
+230,"Escaneo de puertos",Medio,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 230.",2025-07-16,Cerrado,9,177
+231,"Fuga de datos",Cr├¡tico,Baja,"Incidente detectado: Fuga de datos. Referencia interna 231.",2025-06-22,Cerrado,44,21
+232,"Malware detectado",Cr├¡tico,Baja,"Incidente detectado: Malware detectado. Referencia interna 232.",2024-08-11,Cerrado,3,218
+233,"Escaneo de puertos",Medio,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 233.",2024-09-09,Cerrado,64,2
+234,"Escaneo de puertos",Medio,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 234.",2025-08-26,Cerrado,207,114
+235,"Acceso no autorizado",Bajo,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 235.",2024-11-29,Abierto,209,135
+236,"Escaneo de puertos",Cr├¡tico,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 236.",2025-04-21,"En revisi├│n",55,216
+237,"Phishing exitoso",Bajo,Media,"Incidente detectado: Phishing exitoso. Referencia interna 237.",2025-08-22,Abierto,72,75
+238,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 238.",2025-05-01,Abierto,53,270
+239,"Acceso no autorizado",Medio,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 239.",2025-01-21,"En revisi├│n",138,280
+240,"Malware detectado",Cr├¡tico,Baja,"Incidente detectado: Malware detectado. Referencia interna 240.",2025-01-28,"En revisi├│n",88,11
+241,"Phishing exitoso",Medio,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 241.",2025-02-19,Abierto,212,80
+242,"Escaneo de puertos",Cr├¡tico,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 242.",2025-08-22,"En revisi├│n",163,210
+243,"Explotaci├│n de vulnerabilidad",Bajo,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 243.",2024-11-23,Abierto,92,316
+244,"Fallo de servicio",Medio,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 244.",2024-09-02,Cerrado,3,295
+245,"Malware detectado",Medio,Media,"Incidente detectado: Malware detectado. Referencia interna 245.",2025-06-30,Cerrado,212,126
+246,"Fuga de datos",Medio,Alta,"Incidente detectado: Fuga de datos. Referencia interna 246.",2024-11-22,"En revisi├│n",96,226
+247,"Phishing exitoso",Cr├¡tico,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 247.",2025-03-16,Cerrado,129,205
+248,"Phishing exitoso",Medio,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 248.",2025-08-29,Cerrado,162,293
+249,"Phishing exitoso",Alto,Media,"Incidente detectado: Phishing exitoso. Referencia interna 249.",2024-08-23,"En revisi├│n",40,6
+250,"Acceso no autorizado",Cr├¡tico,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 250.",2025-01-15,"En revisi├│n",120,76
+251,"Escaneo de puertos",Bajo,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 251.",2024-09-20,Cerrado,110,305
+252,"Fuga de datos",Medio,Baja,"Incidente detectado: Fuga de datos. Referencia interna 252.",2025-06-01,Abierto,216,43
+253,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 253.",2024-09-22,Cerrado,53,215
+254,"Malware detectado",Alto,Baja,"Incidente detectado: Malware detectado. Referencia interna 254.",2025-06-05,Abierto,99,33
+255,"Fallo de servicio",Cr├¡tico,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 255.",2024-08-15,Abierto,164,147
+256,"Fallo de servicio",Medio,Media,"Incidente detectado: Fallo de servicio. Referencia interna 256.",2025-05-16,Cerrado,158,103
+257,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 257.",2024-07-15,"En revisi├│n",133,292
+258,"Escaneo de puertos",Alto,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 258.",2025-02-27,"En revisi├│n",107,186
+259,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 259.",2024-08-22,"En revisi├│n",70,244
+260,"Malware detectado",Medio,Media,"Incidente detectado: Malware detectado. Referencia interna 260.",2025-06-02,Cerrado,166,169
+261,"Fallo de servicio",Medio,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 261.",2024-10-30,Cerrado,23,27
+262,"Fuga de datos",Cr├¡tico,Alta,"Incidente detectado: Fuga de datos. Referencia interna 262.",2024-10-30,"En revisi├│n",111,7
+263,"Escaneo de puertos",Cr├¡tico,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 263.",2025-10-23,Cerrado,150,20
+264,"Explotaci├│n de vulnerabilidad",Medio,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 264.",2024-09-14,"En revisi├│n",37,8
+265,"Escaneo de puertos",Cr├¡tico,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 265.",2024-09-15,Abierto,178,75
+266,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 266.",2025-06-13,Cerrado,64,220
+267,"Malware detectado",Bajo,Alta,"Incidente detectado: Malware detectado. Referencia interna 267.",2024-12-18,Cerrado,145,320
+268,"Malware detectado",Cr├¡tico,Media,"Incidente detectado: Malware detectado. Referencia interna 268.",2025-04-23,Cerrado,133,263
+269,"Fuga de datos",Bajo,Baja,"Incidente detectado: Fuga de datos. Referencia interna 269.",2024-08-08,"En revisi├│n",77,151
+270,"Malware detectado",Medio,Media,"Incidente detectado: Malware detectado. Referencia interna 270.",2024-09-03,Cerrado,176,59
+271,"Escaneo de puertos",Cr├¡tico,Baja,"Incidente detectado: Escaneo de puertos. Referencia interna 271.",2025-02-01,"En revisi├│n",61,178
+272,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 272.",2025-07-17,Abierto,152,11
+273,"Explotaci├│n de vulnerabilidad",Bajo,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 273.",2025-08-31,"En revisi├│n",18,62
+274,"Explotaci├│n de vulnerabilidad",Medio,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 274.",2025-10-04,"En revisi├│n",159,165
+275,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 275.",2025-01-14,Cerrado,158,111
+276,"Malware detectado",Bajo,Alta,"Incidente detectado: Malware detectado. Referencia interna 276.",2025-02-09,Cerrado,9,63
+277,"Fuga de datos",Medio,Alta,"Incidente detectado: Fuga de datos. Referencia interna 277.",2024-12-29,Abierto,90,189
+278,"Phishing exitoso",Alto,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 278.",2025-06-13,"En revisi├│n",112,196
+279,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 279.",2025-11-04,Cerrado,13,50
+280,"Explotaci├│n de vulnerabilidad",Medio,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 280.",2025-10-25,"En revisi├│n",147,15
+281,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 281.",2025-07-31,Cerrado,86,218
+282,"Escaneo de puertos",Medio,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 282.",2025-06-22,"En revisi├│n",111,202
+283,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 283.",2024-10-07,"En revisi├│n",90,100
+284,"Escaneo de puertos",Cr├¡tico,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 284.",2025-05-17,Abierto,34,178
+285,"Malware detectado",Alto,Baja,"Incidente detectado: Malware detectado. Referencia interna 285.",2025-04-02,"En revisi├│n",38,307
+286,"Fuga de datos",Cr├¡tico,Baja,"Incidente detectado: Fuga de datos. Referencia interna 286.",2025-05-03,Cerrado,126,92
+287,"Acceso no autorizado",Alto,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 287.",2025-02-10,"En revisi├│n",37,227
+288,"Fuga de datos",Bajo,Media,"Incidente detectado: Fuga de datos. Referencia interna 288.",2025-03-06,Abierto,75,276
+289,"Malware detectado",Bajo,Media,"Incidente detectado: Malware detectado. Referencia interna 289.",2025-11-03,"En revisi├│n",82,269
+290,"Fuga de datos",Alto,Baja,"Incidente detectado: Fuga de datos. Referencia interna 290.",2024-09-16,"En revisi├│n",27,112
+291,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 291.",2025-02-04,"En revisi├│n",188,174
+292,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 292.",2025-02-20,"En revisi├│n",34,146
+293,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 293.",2025-08-03,Cerrado,3,12
+294,"Escaneo de puertos",Cr├¡tico,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 294.",2025-09-09,Abierto,103,244
+295,"Phishing exitoso",Medio,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 295.",2024-07-28,"En revisi├│n",136,303
+296,"Escaneo de puertos",Medio,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 296.",2025-06-18,"En revisi├│n",189,299
+297,"Phishing exitoso",Bajo,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 297.",2024-08-04,"En revisi├│n",83,54
+298,"Fallo de servicio",Medio,Media,"Incidente detectado: Fallo de servicio. Referencia interna 298.",2024-11-19,Abierto,149,79
+299,"Acceso no autorizado",Medio,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 299.",2025-08-08,"En revisi├│n",212,156
+300,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Media,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 300.",2024-12-05,Abierto,104,2
+301,"Malware detectado",Alto,Baja,"Incidente detectado: Malware detectado. Referencia interna 301.",2025-02-24,Abierto,106,72
+302,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 302.",2024-12-20,Cerrado,169,117
+303,"Explotaci├│n de vulnerabilidad",Cr├¡tico,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 303.",2025-10-02,"En revisi├│n",197,304
+304,"Fallo de servicio",Medio,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 304.",2024-11-23,Cerrado,134,142
+305,"Escaneo de puertos",Cr├¡tico,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 305.",2024-12-14,"En revisi├│n",155,130
+306,"Fallo de servicio",Cr├¡tico,Media,"Incidente detectado: Fallo de servicio. Referencia interna 306.",2025-06-21,Abierto,199,74
+307,"Phishing exitoso",Medio,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 307.",2025-07-06,Cerrado,213,106
+308,"Phishing exitoso",Medio,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 308.",2025-07-07,Cerrado,147,25
+309,"Malware detectado",Medio,Baja,"Incidente detectado: Malware detectado. Referencia interna 309.",2025-02-18,Cerrado,42,6
+310,"Acceso no autorizado",Bajo,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 310.",2025-04-25,Abierto,7,96
+311,"Phishing exitoso",Medio,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 311.",2025-06-15,"En revisi├│n",142,79
+312,"Phishing exitoso",Cr├¡tico,Baja,"Incidente detectado: Phishing exitoso. Referencia interna 312.",2025-08-24,"En revisi├│n",57,208
+313,"Acceso no autorizado",Alto,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 313.",2024-09-04,Cerrado,182,299
+314,"Malware detectado",Medio,Media,"Incidente detectado: Malware detectado. Referencia interna 314.",2024-09-21,Cerrado,79,50
+315,"Phishing exitoso",Medio,Media,"Incidente detectado: Phishing exitoso. Referencia interna 315.",2024-12-08,"En revisi├│n",14,104
+316,"Acceso no autorizado",Bajo,Alta,"Incidente detectado: Acceso no autorizado. Referencia interna 316.",2024-10-22,Cerrado,53,18
+317,"Malware detectado",Cr├¡tico,Media,"Incidente detectado: Malware detectado. Referencia interna 317.",2025-02-06,Cerrado,190,113
+318,"Malware detectado",Bajo,Media,"Incidente detectado: Malware detectado. Referencia interna 318.",2025-04-18,"En revisi├│n",42,294
+319,"Escaneo de puertos",Alto,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 319.",2024-11-25,Cerrado,176,282
+320,"Malware detectado",Bajo,Baja,"Incidente detectado: Malware detectado. Referencia interna 320.",2024-09-30,Cerrado,51,307
+321,"Fallo de servicio",Cr├¡tico,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 321.",2024-12-06,Cerrado,114,199
+322,"Explotaci├│n de vulnerabilidad",Bajo,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 322.",2025-07-18,Cerrado,53,74
+323,"Acceso no autorizado",Cr├¡tico,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 323.",2024-08-12,Cerrado,127,205
+324,"Escaneo de puertos",Alto,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 324.",2025-05-22,Abierto,184,25
+325,"Malware detectado",Cr├¡tico,Alta,"Incidente detectado: Malware detectado. Referencia interna 325.",2024-07-27,Cerrado,74,154
+326,"Explotaci├│n de vulnerabilidad",Bajo,Alta,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 326.",2024-08-31,Cerrado,63,146
+327,"Acceso no autorizado",Alto,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 327.",2024-12-11,"En revisi├│n",130,78
+328,"Fallo de servicio",Bajo,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 328.",2024-12-21,Cerrado,16,77
+329,"Fuga de datos",Cr├¡tico,Alta,"Incidente detectado: Fuga de datos. Referencia interna 329.",2025-05-25,Cerrado,110,239
+330,"Fallo de servicio",Alto,Baja,"Incidente detectado: Fallo de servicio. Referencia interna 330.",2024-12-07,Abierto,163,148
+331,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 331.",2024-11-04,"En revisi├│n",164,208
+332,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 332.",2024-10-24,Cerrado,1,236
+333,"Fallo de servicio",Medio,Media,"Incidente detectado: Fallo de servicio. Referencia interna 333.",2025-04-26,"En revisi├│n",89,73
+334,"Fuga de datos",Bajo,Alta,"Incidente detectado: Fuga de datos. Referencia interna 334.",2025-01-04,"En revisi├│n",61,235
+335,"Acceso no autorizado",Cr├¡tico,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 335.",2025-05-10,Cerrado,146,88
+336,"Malware detectado",Cr├¡tico,Baja,"Incidente detectado: Malware detectado. Referencia interna 336.",2025-10-23,Cerrado,100,120
+337,"Fallo de servicio",Alto,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 337.",2025-03-15,Cerrado,216,22
+338,"Phishing exitoso",Bajo,Media,"Incidente detectado: Phishing exitoso. Referencia interna 338.",2025-10-03,Cerrado,206,104
+339,"Acceso no autorizado",Alto,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 339.",2025-01-31,"En revisi├│n",97,162
+340,"Escaneo de puertos",Bajo,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 340.",2024-09-24,Cerrado,21,96
+341,"Escaneo de puertos",Cr├¡tico,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 341.",2024-12-21,Cerrado,157,15
+342,"Fuga de datos",Medio,Baja,"Incidente detectado: Fuga de datos. Referencia interna 342.",2025-06-08,Cerrado,68,79
+343,"Fallo de servicio",Cr├¡tico,Alta,"Incidente detectado: Fallo de servicio. Referencia interna 343.",2024-09-13,"En revisi├│n",9,303
+344,"Acceso no autorizado",Medio,Baja,"Incidente detectado: Acceso no autorizado. Referencia interna 344.",2024-09-01,"En revisi├│n",142,210
+345,"Escaneo de puertos",Medio,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 345.",2025-07-18,"En revisi├│n",51,135
+346,"Malware detectado",Alto,Media,"Incidente detectado: Malware detectado. Referencia interna 346.",2025-01-30,Abierto,142,76
+347,"Escaneo de puertos",Bajo,Alta,"Incidente detectado: Escaneo de puertos. Referencia interna 347.",2024-12-13,Cerrado,115,154
+348,"Malware detectado",Cr├¡tico,Alta,"Incidente detectado: Malware detectado. Referencia interna 348.",2025-09-04,Cerrado,103,10
+349,"Fuga de datos",Medio,Media,"Incidente detectado: Fuga de datos. Referencia interna 349.",2025-07-29,Cerrado,126,260
+350,"Malware detectado",Bajo,Alta,"Incidente detectado: Malware detectado. Referencia interna 350.",2024-07-13,"En revisi├│n",44,11
+351,"Explotaci├│n de vulnerabilidad",Alto,Baja,"Incidente detectado: Explotaci├│n de vulnerabilidad. Referencia interna 351.",2024-10-29,Cerrado,200,247
+352,"Malware detectado",Bajo,Baja,"Incidente detectado: Malware detectado. Referencia interna 352.",2025-11-09,"En revisi├│n",18,236
+353,"Malware detectado",Bajo,Media,"Incidente detectado: Malware detectado. Referencia interna 353.",2024-10-06,"En revisi├│n",95,297
+354,"Fallo de servicio",Bajo,Media,"Incidente detectado: Fallo de servicio. Referencia interna 354.",2025-01-02,Cerrado,61,13
+355,"Phishing exitoso",Cr├¡tico,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 355.",2024-11-26,"En revisi├│n",46,28
+356,"Acceso no autorizado",Medio,Media,"Incidente detectado: Acceso no autorizado. Referencia interna 356.",2025-08-26,"En revisi├│n",52,95
+357,"Malware detectado",Cr├¡tico,Media,"Incidente detectado: Malware detectado. Referencia interna 357.",2024-09-24,Cerrado,190,233
+358,"Phishing exitoso",Bajo,Alta,"Incidente detectado: Phishing exitoso. Referencia interna 358.",2024-08-11,"En revisi├│n",24,170
+359,"Malware detectado",Bajo,Media,"Incidente detectado: Malware detectado. Referencia interna 359.",2025-10-29,"En revisi├│n",158,186
+360,"Escaneo de puertos",Bajo,Media,"Incidente detectado: Escaneo de puertos. Referencia interna 360.",2024-10-12,"En revisi├│n",77,268

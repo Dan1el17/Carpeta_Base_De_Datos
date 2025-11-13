@@ -1,0 +1,7 @@
+id_rol,nombre_rol,descripcion
+1,"Administrador de Seguridad","Acceso completo al sistema y gesti├│n de pol├¡ticas"
+2,"Analista SOC","Monitorea incidentes y alertas de seguridad"
+3,"Ingeniero de Sistemas","Gestiona la infraestructura de TI"
+4,Auditor,"Realiza auditor├¡as y revisiones de cumplimiento"
+5,"Soporte TI","Soporte de infraestructura y parches"
+6,"Usuario General","Empleado est├índar con acceso limitado"

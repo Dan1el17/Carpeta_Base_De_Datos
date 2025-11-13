@@ -1,0 +1,221 @@
+id_dispositivo,nombre_dispositivo,tipo,direccion_ip,sistema_operativo,fecha_registro,estado,id_usuario
+1,HOST-0001,Router,192.168.114.176,"Ubuntu 22.04",2023-07-28,Operativo,41
+2,HOST-0002,Impresora,192.168.49.202,"Windows 10",2023-11-14,Operativo,57
+3,HOST-0003,Laptop,172.23.19.37,"CentOS 7",2024-03-22,Operativo,1
+4,HOST-0004,Router,10.148.202.129,"Ubuntu 20.04",2025-04-20,Operativo,43
+5,HOST-0005,Firewall,192.168.216.209,"Ubuntu 22.04",2023-08-21,Operativo,60
+6,HOST-0006,Laptop,10.117.118.204,"Windows Server 2019",2023-10-19,Operativo,6
+7,HOST-0007,Sensor,10.69.238.133,"CentOS 7",2024-02-22,Operativo,4
+8,HOST-0008,Desktop,10.68.62.199,"Windows 11",2024-12-10,Operativo,75
+9,HOST-0009,Firewall,172.27.107.99,"Windows 11",2024-09-01,Operativo,27
+10,HOST-0010,Desktop,10.90.190.29,"Windows 11",2024-01-22,Operativo,44
+11,HOST-0011,Router,172.31.15.68,"Debian 11",2024-07-01,Operativo,1
+12,HOST-0012,Firewall,172.16.187.156,"Ubuntu 22.04",2025-10-20,Operativo,77
+13,HOST-0013,Servidor,10.185.149.115,"Windows Server 2019",2025-10-10,Operativo,67
+14,HOST-0014,Desktop,172.18.164.56,Android,2024-09-02,Operativo,42
+15,SRV-015,NAS,10.55.102.159,"Debian 11",2025-06-24,Operativo,75
+16,HOST-0016,Router,192.168.168.43,"CentOS 8",2024-10-29,Mantenimiento,17
+17,HOST-0017,Firewall,10.228.219.187,"Windows Server 2019",2023-10-26,Operativo,39
+18,HOST-0018,Router,192.168.43.236,"Ubuntu 22.04",2024-09-14,Operativo,24
+19,HOST-0019,NAS,172.16.173.187,"Debian 11",2024-07-03,Operativo,41
+20,HOST-0020,Impresora,192.168.247.28,"Debian 11",2024-12-01,Operativo,28
+21,HOST-0021,NAS,172.16.4.167,"CentOS 7",2025-06-27,Operativo,40
+22,HOST-0022,Impresora,172.18.231.203,Android,2025-08-17,Mantenimiento,49
+23,HOST-0023,Desktop,172.29.38.173,"Windows 11",2023-06-16,Operativo,22
+24,HOST-0024,Laptop,172.21.160.15,"Ubuntu 22.04",2025-03-02,Operativo,78
+25,HOST-0025,Router,172.19.204.39,"CentOS 7",2023-07-09,Operativo,49
+26,HOST-0026,Switch,172.18.12.84,"CentOS 7",2024-08-02,Operativo,1
+27,HOST-0027,Router,192.168.191.192,"Windows 10",2025-02-11,Operativo,1
+28,HOST-0028,Sensor,192.168.247.4,"macOS 12",2025-07-17,Mantenimiento,68
+29,HOST-0029,Desktop,192.168.144.215,"Windows 11",2024-01-25,Operativo,56
+30,SRV-030,Desktop,172.27.213.18,"CentOS 7",2024-05-09,Operativo,1
+31,HOST-0031,NAS,192.168.9.250,"Ubuntu 22.04",2024-09-18,Operativo,12
+32,HOST-0032,Firewall,172.24.170.203,"Debian 11",2025-11-04,Operativo,24
+33,HOST-0033,Laptop,192.168.147.230,"Ubuntu 20.04",2024-03-01,Operativo,12
+34,HOST-0034,Desktop,172.23.138.217,"CentOS 8",2025-10-31,Operativo,65
+35,HOST-0035,Impresora,192.168.37.14,"Windows 11",2025-07-17,Operativo,11
+36,HOST-0036,Router,10.0.126.51,"Ubuntu 20.04",2023-09-25,Operativo,41
+37,HOST-0037,Desktop,10.10.195.92,"Windows 11",2024-07-24,Operativo,70
+38,HOST-0038,Sensor,172.22.216.32,"Ubuntu 22.04",2023-07-25,Operativo,57
+39,HOST-0039,Switch,192.168.125.104,"CentOS 7",2023-08-13,Operativo,77
+40,HOST-0040,Impresora,192.168.46.3,"CentOS 7",2023-06-24,Operativo,36
+41,HOST-0041,NAS,192.168.69.130,"CentOS 8",2023-08-28,Operativo,34
+42,HOST-0042,Desktop,192.168.132.66,"CentOS 8",2025-10-22,Operativo,68
+43,HOST-0043,Firewall,192.168.147.41,"CentOS 7",2024-03-16,Mantenimiento,31
+44,HOST-0044,Servidor,192.168.60.93,"Ubuntu 22.04",2025-03-02,Operativo,19
+45,SRV-045,Firewall,10.226.183.218,"Windows 11",2024-05-30,Operativo,64
+46,HOST-0046,Sensor,10.81.155.155,"Ubuntu 22.04",2024-01-02,Operativo,69
+47,HOST-0047,Switch,10.154.64.138,"Windows Server 2019",2023-05-31,Comprometido,11
+48,HOST-0048,Firewall,10.10.91.208,Android,2025-07-03,Comprometido,7
+49,HOST-0049,Desktop,172.21.175.192,Android,2024-12-16,Operativo,3
+50,HOST-0050,Desktop,172.25.195.34,"Windows Server 2019",2025-01-01,Operativo,55
+51,HOST-0051,Switch,192.168.80.33,"Windows 11",2023-12-22,Operativo,50
+52,HOST-0052,Firewall,192.168.198.228,"Windows 10",2025-11-10,Operativo,80
+53,HOST-0053,Switch,192.168.4.48,"CentOS 8",2023-09-10,Operativo,54
+54,HOST-0054,Servidor,10.22.160.138,"CentOS 8",2024-06-26,Operativo,27
+55,HOST-0055,Router,172.24.197.140,"Debian 11",2025-08-06,Operativo,53
+56,HOST-0056,Desktop,192.168.57.129,"Ubuntu 20.04",2023-10-12,Operativo,9
+57,HOST-0057,Switch,172.20.176.37,"Windows 10",2024-04-18,Operativo,40
+58,HOST-0058,Switch,10.216.27.238,"Debian 11",2024-11-21,Operativo,28
+59,HOST-0059,Switch,172.31.74.85,"macOS 12",2023-09-20,Operativo,48
+60,SRV-060,Router,172.17.219.253,"Windows 10",2025-10-19,Mantenimiento,6
+61,HOST-0061,Servidor,172.24.205.191,"Debian 11",2025-02-17,Operativo,12
+62,HOST-0062,Sensor,192.168.107.60,"Ubuntu 20.04",2025-02-25,Operativo,20
+63,HOST-0063,Firewall,192.168.218.137,"Windows 10",2023-10-24,Operativo,9
+64,HOST-0064,NAS,172.25.226.131,"Windows 10",2023-10-16,Operativo,62
+65,HOST-0065,Laptop,10.39.97.203,"Windows 10",2024-09-23,Operativo,34
+66,HOST-0066,Firewall,10.165.29.212,"Ubuntu 22.04",2023-08-22,Operativo,66
+67,HOST-0067,Impresora,172.29.87.241,"Windows 10",2023-09-04,Operativo,8
+68,HOST-0068,NAS,192.168.8.113,"CentOS 7",2023-07-26,Mantenimiento,41
+69,HOST-0069,Servidor,172.17.252.223,"Debian 11",2024-09-22,Comprometido,7
+70,HOST-0070,Sensor,172.19.134.57,"CentOS 7",2025-08-18,Operativo,51
+71,HOST-0071,Servidor,10.252.181.216,"CentOS 7",2024-07-20,Mantenimiento,61
+72,HOST-0072,Switch,192.168.76.21,"Ubuntu 22.04",2025-05-29,Operativo,36
+73,HOST-0073,Firewall,10.75.114.72,"macOS 12",2023-11-29,Operativo,18
+74,HOST-0074,Sensor,192.168.32.202,"macOS 12",2024-05-04,Operativo,3
+75,SRV-075,Laptop,10.221.132.165,"Windows 10",2024-09-16,Operativo,6
+76,HOST-0076,Servidor,172.19.196.134,"CentOS 7",2025-08-27,Mantenimiento,39
+77,HOST-0077,Laptop,10.98.158.247,"Ubuntu 22.04",2024-02-10,Operativo,70
+78,HOST-0078,Impresora,10.81.189.178,Android,2023-08-26,Comprometido,31
+79,HOST-0079,Impresora,172.20.103.171,"Ubuntu 22.04",2024-02-06,Operativo,29
+80,HOST-0080,NAS,172.17.215.162,"Ubuntu 22.04",2024-10-16,Operativo,28
+81,HOST-0081,Desktop,10.197.151.252,"CentOS 7",2025-05-09,Operativo,28
+82,HOST-0082,Sensor,192.168.158.125,"CentOS 7",2024-06-23,Mantenimiento,41
+83,HOST-0083,NAS,192.168.83.69,"Ubuntu 22.04",2023-09-01,Operativo,63
+84,HOST-0084,Router,192.168.53.39,"CentOS 7",2025-05-27,Operativo,26
+85,HOST-0085,Impresora,10.145.23.193,"Ubuntu 20.04",2024-10-24,Operativo,52
+86,HOST-0086,Switch,192.168.51.76,"CentOS 8",2023-05-31,Operativo,26
+87,HOST-0087,Sensor,172.24.249.241,"Windows 10",2024-04-13,Operativo,8
+88,HOST-0088,Desktop,192.168.90.226,"Windows 11",2023-08-24,Operativo,16
+89,HOST-0089,Impresora,172.20.0.182,"Windows 11",2025-05-07,Operativo,23
+90,SRV-090,Sensor,172.21.75.72,"CentOS 7",2025-06-22,Operativo,1
+91,HOST-0091,Firewall,172.23.221.73,"CentOS 8",2025-05-05,Operativo,28
+92,HOST-0092,Laptop,192.168.169.153,Android,2025-07-06,Operativo,38
+93,HOST-0093,Servidor,10.209.162.128,"Debian 11",2025-09-02,Operativo,32
+94,HOST-0094,Firewall,10.5.42.116,"CentOS 7",2025-04-17,Operativo,25
+95,HOST-0095,Sensor,172.28.245.225,"Windows 11",2024-11-02,Operativo,9
+96,HOST-0096,Router,192.168.103.116,"Windows Server 2019",2025-06-16,Operativo,72
+97,HOST-0097,Impresora,10.145.59.181,"Debian 11",2025-08-07,Operativo,32
+98,HOST-0098,NAS,172.22.138.19,"Debian 11",2025-08-14,Operativo,26
+99,HOST-0099,Firewall,10.159.44.196,"Debian 11",2025-02-17,Mantenimiento,62
+100,HOST-0100,Firewall,10.240.43.3,"Debian 11",2024-07-23,Mantenimiento,69
+101,HOST-0101,Laptop,10.226.216.86,"Ubuntu 22.04",2024-10-03,Operativo,35
+102,HOST-0102,Router,172.31.141.19,"macOS 12",2023-12-28,Operativo,3
+103,HOST-0103,Firewall,192.168.65.187,"Windows 11",2024-03-10,Operativo,68
+104,HOST-0104,Servidor,172.19.147.217,"Windows Server 2019",2025-09-05,Operativo,51
+105,SRV-105,Sensor,192.168.19.101,"Ubuntu 20.04",2025-07-30,Operativo,40
+106,HOST-0106,Router,172.19.119.93,"CentOS 8",2024-08-15,Operativo,13
+107,HOST-0107,Sensor,192.168.59.144,"CentOS 8",2025-07-12,Operativo,55
+108,HOST-0108,Router,10.251.115.149,Android,2023-08-27,Operativo,26
+109,HOST-0109,Sensor,10.171.228.21,"Windows 10",2023-11-04,Operativo,54
+110,HOST-0110,Firewall,192.168.22.77,"Ubuntu 20.04",2024-12-17,Operativo,37
+111,HOST-0111,Servidor,10.18.138.111,"Windows Server 2019",2025-09-06,Operativo,41
+112,HOST-0112,NAS,192.168.122.69,"Ubuntu 20.04",2025-07-20,Operativo,8
+113,HOST-0113,NAS,192.168.15.221,"macOS 12",2024-12-22,Operativo,34
+114,HOST-0114,Laptop,172.19.92.133,Android,2024-05-07,Operativo,60
+115,HOST-0115,Laptop,10.96.253.119,"CentOS 7",2025-02-10,Operativo,64
+116,HOST-0116,Desktop,172.24.6.223,"Windows 11",2025-01-18,Comprometido,43
+117,HOST-0117,Router,192.168.168.243,Android,2024-06-08,Operativo,74
+118,HOST-0118,NAS,10.134.251.49,"CentOS 7",2024-03-30,Operativo,41
+119,HOST-0119,Laptop,10.154.141.225,"CentOS 7",2025-01-12,Operativo,41
+120,SRV-120,NAS,192.168.139.189,"CentOS 8",2023-11-09,Operativo,78
+121,HOST-0121,Laptop,10.234.161.115,"Debian 11",2023-05-27,Operativo,25
+122,HOST-0122,Router,172.25.245.25,"Ubuntu 20.04",2024-09-29,Operativo,31
+123,HOST-0123,Servidor,172.30.87.252,"CentOS 8",2025-01-04,Operativo,31
+124,HOST-0124,Desktop,10.231.163.179,"CentOS 7",2023-11-26,Operativo,44
+125,HOST-0125,Impresora,192.168.69.81,"Windows 11",2025-04-11,Operativo,55
+126,HOST-0126,Firewall,10.96.104.114,"Debian 11",2024-02-22,Operativo,9
+127,HOST-0127,Sensor,10.201.63.222,"Debian 11",2025-07-28,Operativo,59
+128,HOST-0128,Desktop,192.168.41.157,"Windows 10",2024-11-16,Operativo,60
+129,HOST-0129,Impresora,10.64.76.170,"CentOS 7",2024-07-12,Operativo,40
+130,HOST-0130,Router,172.17.32.174,"Ubuntu 20.04",2024-07-19,Operativo,1
+131,HOST-0131,Servidor,192.168.168.154,"macOS 12",2025-08-29,Mantenimiento,18
+132,HOST-0132,Servidor,192.168.52.91,"Windows 11",2023-10-20,Operativo,34
+133,HOST-0133,Laptop,172.16.54.77,"CentOS 8",2024-01-14,Operativo,4
+134,HOST-0134,Desktop,10.28.227.202,"Debian 11",2025-01-08,Operativo,24
+135,SRV-135,Router,192.168.231.201,"Debian 11",2025-05-03,Operativo,43
+136,HOST-0136,Switch,10.34.238.23,"macOS 12",2024-05-22,Operativo,52
+137,HOST-0137,Laptop,192.168.252.81,"CentOS 7",2025-06-28,Operativo,45
+138,HOST-0138,Firewall,192.168.3.174,"Ubuntu 20.04",2024-08-05,Operativo,70
+139,HOST-0139,Desktop,172.30.88.78,"Ubuntu 20.04",2024-01-17,Operativo,52
+140,HOST-0140,Desktop,172.21.254.71,"CentOS 7",2023-08-02,Operativo,63
+141,HOST-0141,Router,10.205.47.226,"Windows 11",2025-08-29,Operativo,37
+142,HOST-0142,Sensor,10.95.175.167,"CentOS 8",2024-11-16,Operativo,59
+143,HOST-0143,Sensor,192.168.30.48,"CentOS 7",2025-06-21,Operativo,13
+144,HOST-0144,Laptop,10.47.151.58,"Windows 10",2025-04-15,Operativo,9
+145,HOST-0145,Router,10.95.224.200,Android,2025-08-05,Operativo,9
+146,HOST-0146,NAS,172.31.243.166,"Debian 11",2024-09-20,Operativo,75
+147,HOST-0147,Servidor,172.22.230.221,"Ubuntu 20.04",2024-07-29,Mantenimiento,64
+148,HOST-0148,Servidor,10.103.150.66,"Windows 11",2024-11-14,Operativo,5
+149,HOST-0149,Firewall,192.168.150.8,"Debian 11",2025-02-28,Mantenimiento,10
+150,SRV-150,Switch,172.26.89.10,"Windows Server 2019",2024-11-24,Operativo,52
+151,HOST-0151,NAS,10.195.247.9,"Windows 11",2024-04-19,Operativo,47
+152,HOST-0152,Router,10.137.18.154,"macOS 12",2024-07-01,Operativo,39
+153,HOST-0153,Impresora,10.106.187.240,"Ubuntu 22.04",2024-10-07,Operativo,73
+154,HOST-0154,Servidor,10.76.93.23,"Windows 11",2023-06-27,Operativo,60
+155,HOST-0155,Desktop,10.143.23.15,"Windows 10",2024-07-12,Operativo,9
+156,HOST-0156,Router,172.21.245.45,"Windows Server 2019",2024-07-23,Operativo,42
+157,HOST-0157,Firewall,192.168.95.67,"CentOS 8",2023-07-24,Operativo,11
+158,HOST-0158,Desktop,172.30.222.200,"Ubuntu 22.04",2024-06-22,Operativo,53
+159,HOST-0159,Firewall,172.28.2.249,"Windows 11",2024-06-14,Operativo,65
+160,HOST-0160,Laptop,10.188.255.161,"Windows 10",2023-08-07,Operativo,1
+161,HOST-0161,Router,10.67.57.51,"CentOS 8",2025-01-31,Operativo,61
+162,HOST-0162,Impresora,172.29.181.37,"CentOS 8",2024-07-18,Operativo,72
+163,HOST-0163,NAS,10.113.219.202,"CentOS 7",2024-06-02,Mantenimiento,74
+164,HOST-0164,Desktop,172.19.108.197,"Windows 11",2025-09-29,Operativo,44
+165,SRV-165,NAS,172.31.160.41,"Ubuntu 20.04",2023-11-27,Operativo,64
+166,HOST-0166,Servidor,10.46.85.80,"Debian 11",2025-07-29,Operativo,55
+167,HOST-0167,Desktop,172.22.33.232,"Windows 10",2023-08-04,Operativo,3
+168,HOST-0168,Router,10.219.252.24,Android,2024-10-24,Operativo,61
+169,HOST-0169,Sensor,192.168.51.123,"Ubuntu 22.04",2024-06-27,Operativo,48
+170,HOST-0170,Laptop,10.38.24.1,"Windows Server 2019",2025-11-03,Mantenimiento,26
+171,HOST-0171,Sensor,192.168.141.156,"Windows 10",2024-04-25,Operativo,23
+172,HOST-0172,NAS,192.168.109.18,"Debian 11",2023-11-02,Operativo,64
+173,HOST-0173,Firewall,10.242.233.128,Android,2025-06-27,Operativo,33
+174,HOST-0174,Impresora,172.30.163.230,"Windows 11",2024-06-02,Operativo,7
+175,HOST-0175,Laptop,192.168.166.105,"Debian 11",2025-04-28,Operativo,63
+176,HOST-0176,Switch,192.168.141.162,"Windows 10",2024-02-10,Operativo,48
+177,HOST-0177,Servidor,192.168.134.149,Android,2025-09-18,Operativo,37
+178,HOST-0178,Laptop,192.168.7.87,"Ubuntu 22.04",2025-10-19,Operativo,57
+179,HOST-0179,Laptop,172.26.43.43,"Ubuntu 22.04",2024-03-22,Operativo,39
+180,SRV-180,Servidor,172.27.48.40,"Windows Server 2019",2024-09-21,Operativo,20
+181,HOST-0181,Laptop,192.168.140.85,"Windows 11",2024-10-31,Operativo,29
+182,HOST-0182,Impresora,192.168.229.78,"Windows 11",2025-10-19,Operativo,41
+183,HOST-0183,NAS,192.168.124.78,"Ubuntu 22.04",2024-10-28,Operativo,43
+184,HOST-0184,Impresora,192.168.98.29,"CentOS 7",2024-02-02,Operativo,15
+185,HOST-0185,Sensor,10.89.189.191,Android,2023-06-02,Operativo,38
+186,HOST-0186,Servidor,192.168.150.228,"Ubuntu 20.04",2025-10-01,Operativo,50
+187,HOST-0187,Impresora,10.13.140.216,"Windows 10",2024-07-29,Operativo,60
+188,HOST-0188,Impresora,172.23.51.183,"Debian 11",2025-06-04,Operativo,72
+189,HOST-0189,Desktop,192.168.150.85,Android,2025-09-02,Mantenimiento,29
+190,HOST-0190,Desktop,10.37.91.116,"CentOS 8",2023-12-13,Operativo,73
+191,HOST-0191,Sensor,192.168.51.42,"Debian 11",2025-04-10,Operativo,23
+192,HOST-0192,Router,172.19.158.29,"Windows Server 2019",2025-01-19,Operativo,39
+193,HOST-0193,Impresora,10.62.236.108,"Windows 10",2024-02-25,Operativo,13
+194,HOST-0194,Switch,172.28.208.185,"Ubuntu 20.04",2025-08-04,Operativo,6
+195,SRV-195,NAS,192.168.173.249,"Ubuntu 20.04",2025-11-09,Operativo,17
+196,HOST-0196,Sensor,172.27.88.210,"CentOS 7",2025-09-11,Operativo,36
+197,HOST-0197,Desktop,10.12.38.186,"macOS 12",2023-09-27,Operativo,1
+198,HOST-0198,Sensor,10.87.225.229,"Ubuntu 20.04",2024-11-04,Operativo,68
+199,HOST-0199,Firewall,192.168.235.131,"Windows 10",2024-10-20,Operativo,76
+200,HOST-0200,Impresora,192.168.198.170,"Windows 11",2023-11-23,Operativo,49
+201,HOST-0201,Desktop,192.168.147.222,"Debian 11",2023-12-28,Operativo,19
+202,HOST-0202,Sensor,172.16.42.206,"Ubuntu 22.04",2025-09-02,Operativo,33
+203,HOST-0203,Firewall,192.168.51.173,"Ubuntu 22.04",2023-11-30,Operativo,58
+204,HOST-0204,Laptop,10.216.85.167,"Windows 11",2023-11-01,Operativo,64
+205,HOST-0205,Router,192.168.186.231,"CentOS 8",2025-05-05,Operativo,55
+206,HOST-0206,Router,10.17.35.101,"Windows 10",2024-01-31,Operativo,48
+207,HOST-0207,Switch,172.24.144.15,"Debian 11",2024-03-12,Operativo,35
+208,HOST-0208,Desktop,192.168.149.138,Android,2024-02-04,Operativo,70
+209,HOST-0209,Router,192.168.88.169,"CentOS 8",2023-06-05,Operativo,69
+210,SRV-210,Firewall,172.23.43.128,"Ubuntu 20.04",2025-07-31,Operativo,21
+211,HOST-0211,Router,192.168.69.96,"Ubuntu 22.04",2025-07-28,Operativo,66
+212,HOST-0212,Laptop,10.193.229.149,"CentOS 8",2024-02-22,Operativo,8
+213,HOST-0213,NAS,10.111.45.47,"Windows Server 2019",2024-08-21,Operativo,51
+214,HOST-0214,Switch,192.168.236.85,"Debian 11",2025-08-09,Operativo,62
+215,HOST-0215,Switch,10.128.246.136,Android,2024-10-06,Operativo,6
+216,HOST-0216,Firewall,192.168.4.60,"CentOS 8",2023-11-20,Operativo,73
+217,HOST-0217,Servidor,10.105.173.85,"Debian 11",2023-12-18,Operativo,70
+218,HOST-0218,Switch,172.27.178.180,"Windows Server 2019",2024-06-17,Operativo,21
+219,HOST-0219,Router,10.175.31.84,"CentOS 7",2024-02-11,Operativo,6
+220,HOST-0220,Laptop,172.20.150.161,Android,2023-08-02,Mantenimiento,36

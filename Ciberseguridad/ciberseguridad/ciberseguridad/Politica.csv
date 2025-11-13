@@ -1,0 +1,11 @@
+id_politica,nombre_politica,categoria,descripcion,fecha_implementacion,estado
+1,"Control de Accesos",Identidad,"Reglas para control de acceso y privilegios",2020-01-15,Activa
+2,"Gesti├│n de Parches",Operacional,"Pol├¡tica para parcheo y gesti├│n de vulnerabilidades",2019-09-01,Activa
+3,"Backup y Recuperaci├│n",Continuidad,"Procedimiento para respaldos y recuperaci├│n",2018-05-20,Activa
+4,"Gesti├│n de Incidentes",Seguridad,"Protocolo de respuesta a incidentes",2021-03-10,Activa
+5,"Registro de Logs",Monitoreo,"Definici├│n de registros, retenci├│n y revisi├│n",2020-06-01,Activa
+6,"Uso Aceptable",Confidencialidad,"Normas de uso de recursos TI",2017-11-15,Activa
+7,"Pol├¡tica BYOD",Operacional,"Regulaci├│n de dispositivos personales en la red",2022-02-01,"En revisi├│n"
+8,"Control de Cambios",Operacional,"Gesti├│n aprobada de cambios en producci├│n",2019-12-10,Activa
+9,"Seguridad F├¡sica",F├¡sica,"Acceso y control f├¡sico a instalaciones",2016-07-01,Activa
+10,"Privacidad de Datos",Legal,"Pol├¡ticas de protecci├│n de datos personales",2020-10-20,Activa

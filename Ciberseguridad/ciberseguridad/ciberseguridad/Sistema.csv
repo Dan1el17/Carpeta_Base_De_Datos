@@ -1,0 +1,41 @@
+id_sistema,nombre_sistema,descripcion,criticidad,id_responsable
+1,"Gesti├│n Financiera","Plataforma de contabilidad, facturaci├│n y conciliaciones bancarias. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Media,13
+2,"Recursos Humanos","Sistema de n├│mina, gesti├│n de personal y evaluaciones de desempe├▒o. Integra procesos cr├¡ticos del negocio.",Alta,9
+3,"Portal de Tickets","Sistema interno de gesti├│n de incidencias y solicitudes de TI. Servicio con alta disponibilidad y redundancia.",Alta,20
+4,"Monitor de Seguridad de Red","Herramienta de monitoreo y correlaci├│n de eventos de red (SIEM). Soporta operaciones diarias y reportes ejecutivos.",Alta,61
+5,"Gestor de Backups","Servicio de backups incrementales y restauraci├│n de datos. Servicio con alta disponibilidad y redundancia.",Media,68
+6,"Control de Accesos","Plataforma de autenticaci├│n y control de accesos f├¡sicos y l├│gicos. Soporta operaciones diarias y reportes ejecutivos.",Baja,53
+7,"Plataforma CRM - instancia 2","Gestor de relaciones con clientes, ventas y pipeline comercial. Soporta operaciones diarias y reportes ejecutivos.",Alta,46
+8,"E-Commerce - instancia 2","Portal de ventas en l├¡nea y gesti├│n de cat├ílogo. Servicio con alta disponibilidad y redundancia.",Alta,2
+9,"Integrador API - instancia 2","Middleware de integraci├│n entre servicios internos y externos. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Alta,62
+10,"Portal de N├│mina - instancia 2","M├│dulo espec├¡fico para la gesti├│n de pagos y beneficios. Integra procesos cr├¡ticos del negocio.",Alta,35
+11,"Servicio de Correo - instancia 2","Servidor de correo corporativo y colas de entrega. Integra procesos cr├¡ticos del negocio.",Media,4
+12,"Plataforma de BI - instancia 2","Data warehouse y dashboards de inteligencia de negocio. Expone APIs internas para integraci├│n con terceros.",Baja,42
+13,"Gesti├│n de Activos - instancia 3","Inventario de hardware y software empresarial. Soporta operaciones diarias y reportes ejecutivos.",Media,24
+14,"Portal Documental - instancia 3","Repositorio documental y control de versiones. Integra procesos cr├¡ticos del negocio.",Media,55
+15,"Sistema de Facturaci├│n Electr├│nica - instancia 3","Emisi├│n y recepci├│n de comprobantes fiscales electr├│nicos. Servicio con alta disponibilidad y redundancia.",Alta,22
+16,"Control de Cambios - instancia 3","Registro y aprobaci├│n de cambios en entornos productivos. Soporta operaciones diarias y reportes ejecutivos.",Alta,14
+17,"Portal Clientes - instancia 3","Portal web para clientes con acceso a sus contratos y tickets. Soporta operaciones diarias y reportes ejecutivos.",Media,2
+18,"Gesti├│n de Proveedores - instancia 3","Informaci├│n y contratos de proveedores externos. Expone APIs internas para integraci├│n con terceros.",Media,54
+19,"Plataforma de Testing - instancia 4","Ambiente de pruebas y CI/CD para desarrollos. Servicio con alta disponibilidad y redundancia.",Alta,50
+20,"API de Pagos - instancia 4","Servicio de procesamiento de pagos y conciliaci├│n. Integra procesos cr├¡ticos del negocio.",Alta,53
+21,"Monitor de Infraestructura - instancia 4","Herramienta de m├®tricas y salud de servidores. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Alta,13
+22,"Portal de Seguridad - instancia 4","Panel administrativo para gesti├│n de pol├¡ticas y alertas. Integra procesos cr├¡ticos del negocio.",Alta,40
+23,"Control de Inventarios - instancia 4","Seguimiento y kardex de materiales. Integra procesos cr├¡ticos del negocio.",Media,70
+24,"Plataforma eLearning - instancia 4","Sistema para formaci├│n y cursos internos. Servicio con alta disponibilidad y redundancia.",Baja,67
+25,"Gesti├│n de Contratos - instancia 5","Administraci├│n de contratos y renovaciones. Integra procesos cr├¡ticos del negocio.",Alta,17
+26,"Portal de RRHH SelfService - instancia 5","Portal para que empleados gestionen datos personales. Servicio con alta disponibilidad y redundancia.",Alta,20
+27,"Sistema de Teletrabajo - instancia 5","VPN y servicios para acceso remoto seguro. Servicio con alta disponibilidad y redundancia.",Baja,73
+28,"Servicio LDAP - instancia 5","Directorio corporativo y autenticaci├│n SSO. Servicio con alta disponibilidad y redundancia.",Alta,41
+29,"Plataforma Mobile - instancia 5","APIs y backend para aplicaciones m├│viles. Servicio con alta disponibilidad y redundancia.",Alta,44
+30,"Gesti├│n de Calidad - instancia 5","Registro de no conformidades y acciones correctivas. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Media,63
+31,"Sistema de Control Industrial - instancia 6","SCADA y control de procesos industriales. Integra procesos cr├¡ticos del negocio.",Media,55
+32,"Plataforma de Mensajer├¡a - instancia 6","Broker de mensajer├¡a entre servicios. Servicio con alta disponibilidad y redundancia.",Alta,32
+33,"Portal de Clientes VIP - instancia 6","├ürea restringida para grandes cuentas. Expone APIs internas para integraci├│n con terceros.",Media,74
+34,"Gesti├│n de Licencias - instancia 6","Control y renovaci├│n de licencias de software. Expone APIs internas para integraci├│n con terceros.",Alta,35
+35,"Portal de Analytics - instancia 6","Dashboards y m├®tricas en tiempo real. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Alta,62
+36,"Sistema de Tickets Externos - instancia 6","Integraci├│n con sistemas de partners. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Baja,71
+37,"Motor de Reglas - instancia 7","Servicio para evaluaci├│n de pol├¡ticas de negocio. Incluye m├│dulos de autenticaci├│n y auditor├¡a.",Media,69
+38,"Gesti├│n de Vulnerabilidades - instancia 7","Panel de gesti├│n y priorizaci├│n de vulnerabilidades. Integra procesos cr├¡ticos del negocio.",Media,44
+39,"Gesti├│n Financiera - instancia 7","Plataforma de contabilidad, facturaci├│n y conciliaciones bancarias. Servicio con alta disponibilidad y redundancia.",Alta,56
+40,"Recursos Humanos - instancia 7","Sistema de n├│mina, gesti├│n de personal y evaluaciones de desempe├▒o. Expone APIs internas para integraci├│n con terceros.",Media,58

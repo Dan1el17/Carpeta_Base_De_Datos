@@ -1,0 +1,181 @@
+id_auditoria,fecha,resultado,observaciones,id_politica,id_sistema,auditor_responsable
+1,2024-10-15,"No conforme","Observaci├│n de auditor├¡a #1: ver controles y evidencias.",3,22,52
+2,2024-10-26,"Con observaciones","Observaci├│n de auditor├¡a #2: ver controles y evidencias.",2,40,67
+3,2025-05-09,Conforme,"Observaci├│n de auditor├¡a #3: ver controles y evidencias.",7,36,13
+4,2025-06-25,Conforme,"Observaci├│n de auditor├¡a #4: ver controles y evidencias.",10,1,17
+5,2023-08-06,"No conforme","Observaci├│n de auditor├¡a #5: ver controles y evidencias.",8,5,34
+6,2025-10-21,"No conforme","Observaci├│n de auditor├¡a #6: ver controles y evidencias.",9,13,18
+7,2024-10-19,"Con observaciones","Observaci├│n de auditor├¡a #7: ver controles y evidencias.",6,29,61
+8,2024-05-29,"Con observaciones","Observaci├│n de auditor├¡a #8: ver controles y evidencias.",5,21,58
+9,2024-04-13,"No conforme","Observaci├│n de auditor├¡a #9: ver controles y evidencias.",5,13,64
+10,2024-05-31,"No conforme","Observaci├│n de auditor├¡a #10: ver controles y evidencias.",4,5,74
+11,2023-11-24,"No conforme","Observaci├│n de auditor├¡a #11: ver controles y evidencias.",5,2,19
+12,2023-12-06,Conforme,"Observaci├│n de auditor├¡a #12: ver controles y evidencias.",8,37,27
+13,2024-09-13,"Con observaciones","Observaci├│n de auditor├¡a #13: ver controles y evidencias.",6,26,66
+14,2023-08-21,"No conforme","Observaci├│n de auditor├¡a #14: ver controles y evidencias.",7,15,46
+15,2024-07-13,Conforme,"Observaci├│n de auditor├¡a #15: ver controles y evidencias.",9,8,22
+16,2024-07-27,"Con observaciones","Observaci├│n de auditor├¡a #16: ver controles y evidencias.",8,32,48
+17,2024-04-16,Conforme,"Observaci├│n de auditor├¡a #17: ver controles y evidencias.",10,9,66
+18,2025-09-19,Conforme,"Observaci├│n de auditor├¡a #18: ver controles y evidencias.",3,24,41
+19,2025-07-07,Conforme,"Observaci├│n de auditor├¡a #19: ver controles y evidencias.",3,38,11
+20,2024-10-31,Conforme,"Observaci├│n de auditor├¡a #20: ver controles y evidencias.",1,26,21
+21,2024-11-18,Conforme,"Observaci├│n de auditor├¡a #21: ver controles y evidencias.",10,36,69
+22,2025-05-28,"Con observaciones","Observaci├│n de auditor├¡a #22: ver controles y evidencias.",4,19,75
+23,2025-10-22,Conforme,"Observaci├│n de auditor├¡a #23: ver controles y evidencias.",6,24,38
+24,2025-05-10,Conforme,"Observaci├│n de auditor├¡a #24: ver controles y evidencias.",10,20,62
+25,2024-02-18,"No conforme","Observaci├│n de auditor├¡a #25: ver controles y evidencias.",2,40,37
+26,2024-04-04,"No conforme","Observaci├│n de auditor├¡a #26: ver controles y evidencias.",10,14,3
+27,2023-09-13,"No conforme","Observaci├│n de auditor├¡a #27: ver controles y evidencias.",10,32,65
+28,2025-03-25,Conforme,"Observaci├│n de auditor├¡a #28: ver controles y evidencias.",10,26,78
+29,2023-10-01,Conforme,"Observaci├│n de auditor├¡a #29: ver controles y evidencias.",10,1,37
+30,2025-09-10,"Con observaciones","Observaci├│n de auditor├¡a #30: ver controles y evidencias.",5,25,72
+31,2024-12-07,"No conforme","Observaci├│n de auditor├¡a #31: ver controles y evidencias.",8,36,41
+32,2024-06-12,Conforme,"Observaci├│n de auditor├¡a #32: ver controles y evidencias.",1,21,50
+33,2025-06-16,Conforme,"Observaci├│n de auditor├¡a #33: ver controles y evidencias.",1,35,73
+34,2023-10-20,Conforme,"Observaci├│n de auditor├¡a #34: ver controles y evidencias.",1,24,61
+35,2025-04-05,"No conforme","Observaci├│n de auditor├¡a #35: ver controles y evidencias.",9,5,32
+36,2025-06-07,"Con observaciones","Observaci├│n de auditor├¡a #36: ver controles y evidencias.",5,33,7
+37,2024-02-28,"No conforme","Observaci├│n de auditor├¡a #37: ver controles y evidencias.",6,26,61
+38,2024-03-17,"Con observaciones","Observaci├│n de auditor├¡a #38: ver controles y evidencias.",5,15,33
+39,2025-08-20,"No conforme","Observaci├│n de auditor├¡a #39: ver controles y evidencias.",3,14,21
+40,2024-03-04,"Con observaciones","Observaci├│n de auditor├¡a #40: ver controles y evidencias.",8,5,4
+41,2025-07-28,"No conforme","Observaci├│n de auditor├¡a #41: ver controles y evidencias.",4,2,15
+42,2024-04-30,Conforme,"Observaci├│n de auditor├¡a #42: ver controles y evidencias.",9,36,11
+43,2024-05-23,"Con observaciones","Observaci├│n de auditor├¡a #43: ver controles y evidencias.",7,8,17
+44,2025-05-28,"Con observaciones","Observaci├│n de auditor├¡a #44: ver controles y evidencias.",5,16,22
+45,2025-07-11,"Con observaciones","Observaci├│n de auditor├¡a #45: ver controles y evidencias.",9,35,16
+46,2024-11-09,"Con observaciones","Observaci├│n de auditor├¡a #46: ver controles y evidencias.",8,15,46
+47,2024-08-23,"No conforme","Observaci├│n de auditor├¡a #47: ver controles y evidencias.",8,3,70
+48,2024-08-30,"No conforme","Observaci├│n de auditor├¡a #48: ver controles y evidencias.",8,23,15
+49,2025-06-09,Conforme,"Observaci├│n de auditor├¡a #49: ver controles y evidencias.",1,12,30
+50,2024-05-02,"No conforme","Observaci├│n de auditor├¡a #50: ver controles y evidencias.",3,3,34
+51,2025-05-14,Conforme,"Observaci├│n de auditor├¡a #51: ver controles y evidencias.",4,5,14
+52,2023-07-25,"No conforme","Observaci├│n de auditor├¡a #52: ver controles y evidencias.",8,5,23
+53,2024-04-10,"Con observaciones","Observaci├│n de auditor├¡a #53: ver controles y evidencias.",10,20,31
+54,2025-04-12,"Con observaciones","Observaci├│n de auditor├¡a #54: ver controles y evidencias.",9,20,5
+55,2024-12-21,"No conforme","Observaci├│n de auditor├¡a #55: ver controles y evidencias.",1,13,24
+56,2024-08-11,"Con observaciones","Observaci├│n de auditor├¡a #56: ver controles y evidencias.",6,18,48
+57,2025-03-13,"No conforme","Observaci├│n de auditor├¡a #57: ver controles y evidencias.",5,22,62
+58,2024-02-09,"No conforme","Observaci├│n de auditor├¡a #58: ver controles y evidencias.",2,7,23
+59,2024-04-12,Conforme,"Observaci├│n de auditor├¡a #59: ver controles y evidencias.",8,28,57
+60,2025-04-14,"Con observaciones","Observaci├│n de auditor├¡a #60: ver controles y evidencias.",5,9,5
+61,2025-10-23,Conforme,"Observaci├│n de auditor├¡a #61: ver controles y evidencias.",8,24,58
+62,2023-10-09,Conforme,"Observaci├│n de auditor├¡a #62: ver controles y evidencias.",9,38,50
+63,2023-08-23,Conforme,"Observaci├│n de auditor├¡a #63: ver controles y evidencias.",7,7,50
+64,2025-03-03,Conforme,"Observaci├│n de auditor├¡a #64: ver controles y evidencias.",4,39,23
+65,2023-11-10,"No conforme","Observaci├│n de auditor├¡a #65: ver controles y evidencias.",9,31,45
+66,2025-08-04,Conforme,"Observaci├│n de auditor├¡a #66: ver controles y evidencias.",5,11,27
+67,2025-10-12,"No conforme","Observaci├│n de auditor├¡a #67: ver controles y evidencias.",1,1,17
+68,2023-12-19,Conforme,"Observaci├│n de auditor├¡a #68: ver controles y evidencias.",7,17,66
+69,2024-05-16,Conforme,"Observaci├│n de auditor├¡a #69: ver controles y evidencias.",2,26,4
+70,2025-01-21,"No conforme","Observaci├│n de auditor├¡a #70: ver controles y evidencias.",5,14,75
+71,2024-10-16,"Con observaciones","Observaci├│n de auditor├¡a #71: ver controles y evidencias.",9,31,37
+72,2023-12-31,"Con observaciones","Observaci├│n de auditor├¡a #72: ver controles y evidencias.",10,40,20
+73,2023-09-05,"Con observaciones","Observaci├│n de auditor├¡a #73: ver controles y evidencias.",9,25,75
+74,2024-04-26,Conforme,"Observaci├│n de auditor├¡a #74: ver controles y evidencias.",1,31,48
+75,2025-01-31,"No conforme","Observaci├│n de auditor├¡a #75: ver controles y evidencias.",6,27,61
+76,2024-12-09,"No conforme","Observaci├│n de auditor├¡a #76: ver controles y evidencias.",9,40,2
+77,2025-03-28,Conforme,"Observaci├│n de auditor├¡a #77: ver controles y evidencias.",2,36,14
+78,2025-05-24,"Con observaciones","Observaci├│n de auditor├¡a #78: ver controles y evidencias.",7,21,38
+79,2024-04-09,"Con observaciones","Observaci├│n de auditor├¡a #79: ver controles y evidencias.",10,14,24
+80,2024-01-12,Conforme,"Observaci├│n de auditor├¡a #80: ver controles y evidencias.",7,21,28
+81,2025-08-21,"No conforme","Observaci├│n de auditor├¡a #81: ver controles y evidencias.",8,27,36
+82,2023-12-08,Conforme,"Observaci├│n de auditor├¡a #82: ver controles y evidencias.",2,1,79
+83,2025-03-09,Conforme,"Observaci├│n de auditor├¡a #83: ver controles y evidencias.",7,12,45
+84,2023-05-28,"Con observaciones","Observaci├│n de auditor├¡a #84: ver controles y evidencias.",3,6,2
+85,2024-06-19,"No conforme","Observaci├│n de auditor├¡a #85: ver controles y evidencias.",8,13,35
+86,2025-03-02,"No conforme","Observaci├│n de auditor├¡a #86: ver controles y evidencias.",5,26,17
+87,2023-09-04,"Con observaciones","Observaci├│n de auditor├¡a #87: ver controles y evidencias.",9,34,62
+88,2023-08-24,"Con observaciones","Observaci├│n de auditor├¡a #88: ver controles y evidencias.",6,40,19
+89,2025-01-08,"No conforme","Observaci├│n de auditor├¡a #89: ver controles y evidencias.",4,12,36
+90,2024-09-26,"Con observaciones","Observaci├│n de auditor├¡a #90: ver controles y evidencias.",10,37,16
+91,2025-04-17,"No conforme","Observaci├│n de auditor├¡a #91: ver controles y evidencias.",9,29,52
+92,2025-08-14,Conforme,"Observaci├│n de auditor├¡a #92: ver controles y evidencias.",1,2,7
+93,2023-12-26,"Con observaciones","Observaci├│n de auditor├¡a #93: ver controles y evidencias.",10,20,18
+94,2024-03-10,"No conforme","Observaci├│n de auditor├¡a #94: ver controles y evidencias.",10,17,74
+95,2025-09-07,"Con observaciones","Observaci├│n de auditor├¡a #95: ver controles y evidencias.",9,29,35
+96,2024-07-31,"No conforme","Observaci├│n de auditor├¡a #96: ver controles y evidencias.",8,25,23
+97,2023-08-31,"No conforme","Observaci├│n de auditor├¡a #97: ver controles y evidencias.",9,38,6
+98,2025-02-10,"No conforme","Observaci├│n de auditor├¡a #98: ver controles y evidencias.",7,3,40
+99,2024-07-01,"Con observaciones","Observaci├│n de auditor├¡a #99: ver controles y evidencias.",5,24,62
+100,2025-02-07,"No conforme","Observaci├│n de auditor├¡a #100: ver controles y evidencias.",5,17,72
+101,2025-06-09,"No conforme","Observaci├│n de auditor├¡a #101: ver controles y evidencias.",6,21,45
+102,2024-06-07,"No conforme","Observaci├│n de auditor├¡a #102: ver controles y evidencias.",9,9,62
+103,2025-03-03,Conforme,"Observaci├│n de auditor├¡a #103: ver controles y evidencias.",6,10,64
+104,2025-03-08,"No conforme","Observaci├│n de auditor├¡a #104: ver controles y evidencias.",5,28,80
+105,2024-01-11,Conforme,"Observaci├│n de auditor├¡a #105: ver controles y evidencias.",7,29,25
+106,2025-09-12,Conforme,"Observaci├│n de auditor├¡a #106: ver controles y evidencias.",4,21,60
+107,2024-04-06,Conforme,"Observaci├│n de auditor├¡a #107: ver controles y evidencias.",7,15,7
+108,2024-05-29,"No conforme","Observaci├│n de auditor├¡a #108: ver controles y evidencias.",1,31,80
+109,2024-06-07,"Con observaciones","Observaci├│n de auditor├¡a #109: ver controles y evidencias.",1,31,30
+110,2024-02-23,"No conforme","Observaci├│n de auditor├¡a #110: ver controles y evidencias.",2,37,66
+111,2024-08-06,"Con observaciones","Observaci├│n de auditor├¡a #111: ver controles y evidencias.",1,37,9
+112,2023-06-19,"Con observaciones","Observaci├│n de auditor├¡a #112: ver controles y evidencias.",5,6,77
+113,2024-05-04,"No conforme","Observaci├│n de auditor├¡a #113: ver controles y evidencias.",6,9,13
+114,2024-07-15,"No conforme","Observaci├│n de auditor├¡a #114: ver controles y evidencias.",7,38,23
+115,2024-06-28,"Con observaciones","Observaci├│n de auditor├¡a #115: ver controles y evidencias.",10,16,38
+116,2025-05-27,"Con observaciones","Observaci├│n de auditor├¡a #116: ver controles y evidencias.",9,2,60
+117,2025-03-13,Conforme,"Observaci├│n de auditor├¡a #117: ver controles y evidencias.",9,36,58
+118,2025-10-18,"Con observaciones","Observaci├│n de auditor├¡a #118: ver controles y evidencias.",7,38,39
+119,2025-02-11,"No conforme","Observaci├│n de auditor├¡a #119: ver controles y evidencias.",8,34,58
+120,2023-07-20,Conforme,"Observaci├│n de auditor├¡a #120: ver controles y evidencias.",10,6,68
+121,2023-07-12,Conforme,"Observaci├│n de auditor├¡a #121: ver controles y evidencias.",4,7,78
+122,2024-10-27,"No conforme","Observaci├│n de auditor├¡a #122: ver controles y evidencias.",4,4,38
+123,2025-10-25,"Con observaciones","Observaci├│n de auditor├¡a #123: ver controles y evidencias.",7,31,43
+124,2024-06-26,"Con observaciones","Observaci├│n de auditor├¡a #124: ver controles y evidencias.",7,36,40
+125,2025-07-20,"Con observaciones","Observaci├│n de auditor├¡a #125: ver controles y evidencias.",5,4,74
+126,2025-05-07,Conforme,"Observaci├│n de auditor├¡a #126: ver controles y evidencias.",8,9,72
+127,2025-01-06,"Con observaciones","Observaci├│n de auditor├¡a #127: ver controles y evidencias.",4,32,71
+128,2024-03-15,"Con observaciones","Observaci├│n de auditor├¡a #128: ver controles y evidencias.",10,39,64
+129,2024-09-18,"No conforme","Observaci├│n de auditor├¡a #129: ver controles y evidencias.",9,14,76
+130,2023-09-10,"No conforme","Observaci├│n de auditor├¡a #130: ver controles y evidencias.",1,14,65
+131,2023-08-17,"No conforme","Observaci├│n de auditor├¡a #131: ver controles y evidencias.",6,20,3
+132,2025-04-24,"Con observaciones","Observaci├│n de auditor├¡a #132: ver controles y evidencias.",3,11,59
+133,2025-06-17,"No conforme","Observaci├│n de auditor├¡a #133: ver controles y evidencias.",7,23,57
+134,2025-07-15,"Con observaciones","Observaci├│n de auditor├¡a #134: ver controles y evidencias.",10,19,55
+135,2024-04-26,"No conforme","Observaci├│n de auditor├¡a #135: ver controles y evidencias.",6,2,9
+136,2025-09-09,Conforme,"Observaci├│n de auditor├¡a #136: ver controles y evidencias.",1,36,58
+137,2023-09-23,Conforme,"Observaci├│n de auditor├¡a #137: ver controles y evidencias.",10,21,3
+138,2024-04-30,"No conforme","Observaci├│n de auditor├¡a #138: ver controles y evidencias.",8,7,45
+139,2025-06-08,"Con observaciones","Observaci├│n de auditor├¡a #139: ver controles y evidencias.",3,25,53
+140,2024-08-31,Conforme,"Observaci├│n de auditor├¡a #140: ver controles y evidencias.",7,7,76
+141,2025-05-22,"Con observaciones","Observaci├│n de auditor├¡a #141: ver controles y evidencias.",7,9,66
+142,2024-02-17,"No conforme","Observaci├│n de auditor├¡a #142: ver controles y evidencias.",3,14,20
+143,2024-03-20,"No conforme","Observaci├│n de auditor├¡a #143: ver controles y evidencias.",2,12,53
+144,2025-02-14,"No conforme","Observaci├│n de auditor├¡a #144: ver controles y evidencias.",1,4,74
+145,2023-07-27,Conforme,"Observaci├│n de auditor├¡a #145: ver controles y evidencias.",5,29,29
+146,2024-05-04,Conforme,"Observaci├│n de auditor├¡a #146: ver controles y evidencias.",4,21,3
+147,2023-12-05,Conforme,"Observaci├│n de auditor├¡a #147: ver controles y evidencias.",3,25,20
+148,2025-09-21,Conforme,"Observaci├│n de auditor├¡a #148: ver controles y evidencias.",2,16,63
+149,2024-10-30,Conforme,"Observaci├│n de auditor├¡a #149: ver controles y evidencias.",10,10,22
+150,2025-05-28,"No conforme","Observaci├│n de auditor├¡a #150: ver controles y evidencias.",9,37,33
+151,2024-09-17,Conforme,"Observaci├│n de auditor├¡a #151: ver controles y evidencias.",5,18,18
+152,2024-03-01,"No conforme","Observaci├│n de auditor├¡a #152: ver controles y evidencias.",9,19,11
+153,2025-11-04,"No conforme","Observaci├│n de auditor├¡a #153: ver controles y evidencias.",10,23,62
+154,2024-09-07,"No conforme","Observaci├│n de auditor├¡a #154: ver controles y evidencias.",7,14,39
+155,2025-09-11,Conforme,"Observaci├│n de auditor├¡a #155: ver controles y evidencias.",9,27,66
+156,2025-10-15,"Con observaciones","Observaci├│n de auditor├¡a #156: ver controles y evidencias.",4,38,41
+157,2024-07-12,"Con observaciones","Observaci├│n de auditor├¡a #157: ver controles y evidencias.",10,28,54
+158,2025-03-01,"No conforme","Observaci├│n de auditor├¡a #158: ver controles y evidencias.",10,22,41
+159,2025-01-04,Conforme,"Observaci├│n de auditor├¡a #159: ver controles y evidencias.",9,18,27
+160,2023-08-13,"Con observaciones","Observaci├│n de auditor├¡a #160: ver controles y evidencias.",4,21,14
+161,2024-01-08,"No conforme","Observaci├│n de auditor├¡a #161: ver controles y evidencias.",8,25,40
+162,2023-06-27,"Con observaciones","Observaci├│n de auditor├¡a #162: ver controles y evidencias.",10,3,66
+163,2024-04-14,"Con observaciones","Observaci├│n de auditor├¡a #163: ver controles y evidencias.",5,36,28
+164,2023-08-03,"No conforme","Observaci├│n de auditor├¡a #164: ver controles y evidencias.",2,7,53
+165,2024-01-15,Conforme,"Observaci├│n de auditor├¡a #165: ver controles y evidencias.",1,12,78
+166,2023-08-30,"Con observaciones","Observaci├│n de auditor├¡a #166: ver controles y evidencias.",3,13,72
+167,2024-02-27,"No conforme","Observaci├│n de auditor├¡a #167: ver controles y evidencias.",3,15,42
+168,2024-05-26,"No conforme","Observaci├│n de auditor├¡a #168: ver controles y evidencias.",5,40,32
+169,2024-10-02,"Con observaciones","Observaci├│n de auditor├¡a #169: ver controles y evidencias.",2,30,11
+170,2023-12-19,"No conforme","Observaci├│n de auditor├¡a #170: ver controles y evidencias.",2,22,75
+171,2024-08-25,"No conforme","Observaci├│n de auditor├¡a #171: ver controles y evidencias.",8,31,64
+172,2025-07-27,"Con observaciones","Observaci├│n de auditor├¡a #172: ver controles y evidencias.",3,14,64
+173,2025-08-01,Conforme,"Observaci├│n de auditor├¡a #173: ver controles y evidencias.",7,28,5
+174,2025-02-22,"Con observaciones","Observaci├│n de auditor├¡a #174: ver controles y evidencias.",2,35,51
+175,2025-01-08,Conforme,"Observaci├│n de auditor├¡a #175: ver controles y evidencias.",10,35,2
+176,2025-04-01,"Con observaciones","Observaci├│n de auditor├¡a #176: ver controles y evidencias.",5,19,41
+177,2024-09-28,"Con observaciones","Observaci├│n de auditor├¡a #177: ver controles y evidencias.",3,17,74
+178,2025-01-30,"No conforme","Observaci├│n de auditor├¡a #178: ver controles y evidencias.",4,5,71
+179,2023-10-24,"No conforme","Observaci├│n de auditor├¡a #179: ver controles y evidencias.",3,22,57
+180,2025-08-05,"No conforme","Observaci├│n de auditor├¡a #180: ver controles y evidencias.",10,14,5
